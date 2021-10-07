@@ -1,4 +1,4 @@
-# Java-Hibernate-MySql-Web-Application-Stock-Management-System
+# Java Hibernate MySql Web Application Stock Management System
 
 ## Uygulama Açıklaması
 Depo yönetim sistemi projesi, depodaki stok takip, ürün alışverişi sistemleri kontrol etmemizi sağlamaktadır. Giriş yapılarak girilmektedir. Müşteri ve ürün ekleme, silme, düzenleme ve ayrıntıları görüntüleme işlemleri yapılabilmektedir. Sipariş eklendikten sonra ödeme yapılmaktadır.
