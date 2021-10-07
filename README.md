@@ -44,25 +44,25 @@ Depo yönetim sistemi projesi, depodaki stok takip, ürün alışverişi sisteml
 <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(6).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(6).jpg" width="200" style="max-width:100%;"></a>
   
-  <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(7).jpg" target="_blank">
+ <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(7).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(7).jpg" width="200" style="max-width:100%;"></a>
   
-  <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(8).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(8).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(8).jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(9).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(9).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(9).jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(10).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(10).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(10).jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(11).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(11).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(11).jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(12).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(12).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(12).jpg" width="200" style="max-width:100%;"></a>
   
-    <a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(13).jpg" target="_blank">
+<a href="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(13).jpg" target="_blank">
 <img src="https://github.com/Sahsanem/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/images/depo%20(13).jpg" width="200" style="max-width:100%;"></a>
   
   </p>
